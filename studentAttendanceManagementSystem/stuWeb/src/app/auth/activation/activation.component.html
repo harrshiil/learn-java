@@ -1,0 +1,35 @@
+
+<div *ngIf="loading">
+  <div class="row" *ngIf="!isActivateDone">
+    <div class="col-lg-12">
+      <div class="ibox float-e-margins">
+        <div class="ibox-content text-center p-md">
+  
+          <h2>
+            <span class="text-danger">Oops !</span>
+          </h2>
+  
+          <p>
+            {{constants.MESSAGES.SOMETHING_WENT_WRONG}} </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row" *ngIf="isActivateDone">
+    <div class="col-lg-12">
+      <div class="ibox float-e-margins">
+        <div class="ibox-content text-center p-md">
+  
+          <h2>
+            <span class="text-navy">Congratulations !</span>
+          </h2>
+  
+          <p>
+              {{constants.MESSAGES.ACTIVATE_SUCCESS}} </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComplianceEngine/ComplianceEngine.iml" filepath="$PROJECT_DIR$/ComplianceEngine/ComplianceEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstLevel/FirstLevel.iml" filepath="$PROJECT_DIR$/FirstLevel/FirstLevel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticalInterviews.iml" filepath="$PROJECT_DIR$/.idea/PracticalInterviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondLevel/SecondLevel.iml" filepath="$PROJECT_DIR$/SecondLevel/SecondLevel.iml" />
+    </modules>
+  </component>
+</project>

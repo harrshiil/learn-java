@@ -1,0 +1,6 @@
+
+}
+java:S4144"[Update this method so that its implementation is not identical to "getInstance" on line 14.(ö¿œƒúÿÿÿÿ8ÊÉª¾/
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(…÷·µÿÿÿÿÿ8ÊÉª¾/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ü¹¤æÿÿÿÿÿ8ÊÉª¾/

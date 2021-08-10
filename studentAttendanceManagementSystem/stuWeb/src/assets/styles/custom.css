@@ -1,0 +1,88 @@
+.mandatory:before {
+    content: "*";
+    color: red;
+    padding-left: 2px;
+    font-size: 10px;
+    vertical-align: top;
+ }
+
+ .name_image {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 1%;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.ibox-title {
+    font-size: 15px !important;
+    font-weight: 600 !important;
+}
+
+.hidden {
+    display: none;
+}
+
+.delete_btn {
+    color: #f12626;
+}
+
+.view_btn {
+    color: #337ab7;
+}
+
+.custom-box-add {
+    border: 1px solid lightgray;
+    padding: 2% 2% 0 0;
+}
+
+.f-s-15 {
+    font-size: 15pt;
+}
+.form-control.ng-invalid.ng-touched {
+    border: 1px solid #ed5565;
+  }
+
+  .tableHeader{
+    background-color: #e5e5e5;
+  }
+
+  .myWrapper{
+    padding: 0px !important;
+  }
+
+  .form-group {
+    clear: both;
+    display: flow-root;
+    margin-bottom: 5px;
+  }
+
+  .control-label{
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .ibox-title {
+    min-height: 35px;
+    color: #009fdf;
+    font-size: 15px;
+    font-weight: 600;
+    float: none;
+  }
+
+  .border-style-none, .ibox .sub-header {
+    border-style: none!important;
+}
+
+@media (max-width: 768px){
+    .mini-navbar .navbar-static-side {
+      display: block;
+      z-index: 1;
+      position: absolute;
+    }
+    .mini-navbar .miniToggleButton{
+      display: none;
+    }
+  }

@@ -1,0 +1,6 @@
+
+nsquid:S2077#"RUse a variable binding mechanism to construct this query instead of concatenation.(şƒ¹ÿÿÿÿÿ
+csquid:S20954"GUse try-with-resources or close this "Statement" in a "finally" clause.(¡£€áùÿÿÿÿ
+csquid:S2095#"GUse try-with-resources or close this "Statement" in a "finally" clause.(şƒ¹ÿÿÿÿÿ
+csquid:S2095%"GUse try-with-resources or close this "Statement" in a "finally" clause.(¡£€áùÿÿÿÿ
+Csquid:S1948",Make "dataSource" transient or serializable.(â–ŠĞ

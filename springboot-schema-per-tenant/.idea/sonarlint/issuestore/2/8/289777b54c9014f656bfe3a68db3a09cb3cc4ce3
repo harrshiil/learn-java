@@ -1,0 +1,7 @@
+
+Bsquid:S1452)"&Remove usage of generic wildcard type.(Ó”î•ùÿÿÿÿ
+»%squid:RedundantThrowsDeclarationCheck+"„Remove the declaration of thrown exception 'org.springframework.security.core.AuthenticationException' which is a runtime exception.(¸Ð»’ùÿÿÿÿ
+Hsquid:S11353"2Complete the task associated to this TODO comment.(êþý-
+?squid:S11487"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(øë¶øÿÿÿÿ
+fsquid:S4488("JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(£ÓÆËýÿÿÿÿ

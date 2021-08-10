@@ -1,0 +1,24 @@
+/* .input-error {
+    float: left;
+    color: #FF0035;
+    font-weight: normal;
+    text-align: left;
+    font-size: 14px;
+}
+
+.form-control.ng-invalid {
+    box-shadow: inset 1px 1px 0px #FF0035, 1px 1px 1px #FF0035;
+}
+
+.marginbottom-10 {
+    margin-bottom: 10px;
+} */
+
+.input-error {
+    color: #FF0035;
+    float: left;
+    font-size: 13px;
+  } 
+  .form-control.ng-invalid {
+    border:1px solid#FF0035;
+  }

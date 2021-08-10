@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/PracticalInterviews/ComplianceEngine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PracticalInterviews/FirstLevel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PracticalInterviews/SecondLevel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/boot-filter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mapstruct-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/security-zero" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-rabbitmq-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-schema-per-tenant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/studentAttendanceManagementSystem/stuWeb" vcs="Git" />
+  </component>
+</project>

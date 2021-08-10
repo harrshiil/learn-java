@@ -1,0 +1,42 @@
+
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+l
+java:S1104"QMake tagId a static final constant or non-public and provide accessors if needed.(´ÿÇ¶øÿÿÿÿ
+y
+java:S1104"^Make manufacturerNumber a static final constant or non-public and provide accessors if needed.(™÷ Ûùÿÿÿÿ
+r
+java:S1104"WMake description a static final constant or non-public and provide accessors if needed.(¹ÿ†ğÿÿÿÿÿ
+o
+java:S1104"TMake quantity a static final constant or non-public and provide accessors if needed.(Éô£ßıÿÿÿÿ
+q
+java:S1104	"[Make acquisitionCost a static final constant or non-public and provide accessors if needed.(•¹Ìî
+o
+java:S1104
+"TMake location a static final constant or non-public and provide accessors if needed.(û³Ş¿şÿÿÿÿ
+t
+java:S1104"^Make isReportedRegistry a static final constant or non-public and provide accessors if needed.(§ª×
+e
+java:S1104"OMake uII a static final constant or non-public and provide accessors if needed.(í¬Ğ­
+o
+java:S1104"TMake contract a static final constant or non-public and provide accessors if needed.(¬ôˆÏıÿÿÿÿ
+u
+java:S1845"_Rename method "name" to prevent any misunderstanding/clash with field "name" defined on line 4.(©á±å
+|
+java:S1845"aRename method "tagId" to prevent any misunderstanding/clash with field "tagId" defined on line 5.(ˆÊıÃÿÿÿÿÿ
+–
+java:S1845"{Rename method "manufacturerNumber" to prevent any misunderstanding/clash with field "manufacturerNumber" defined on line 6.(ÇËÙ´úÿÿÿÿ
+ˆ
+java:S1845"mRename method "description" to prevent any misunderstanding/clash with field "description" defined on line 7.(‡÷‡¸ùÿÿÿÿ
+{
+java:S1845#"gRename method "quantity" to prevent any misunderstanding/clash with field "quantity" defined on line 8.(ğ‰4
+
+java:S1845("uRename method "acquisitionCost" to prevent any misunderstanding/clash with field "acquisitionCost" defined on line 9.(Ò® éøÿÿÿÿ
+~
+java:S1845-"hRename method "location" to prevent any misunderstanding/clash with field "location" defined on line 10.(Ñ›£ı
+’
+java:S18452"|Rename method "isReportedRegistry" to prevent any misunderstanding/clash with field "isReportedRegistry" defined on line 11.(¡’ª
+y
+java:S18457"^Rename method "uII" to prevent any misunderstanding/clash with field "uII" defined on line 12.(ˆ»ÂÈúÿÿÿÿ
+~
+java:S1845<"hRename method "contract" to prevent any misunderstanding/clash with field "contract" defined on line 13.(ªçøª

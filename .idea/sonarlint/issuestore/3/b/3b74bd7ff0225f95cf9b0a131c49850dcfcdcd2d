@@ -1,0 +1,23 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "input4".(¹Æ×šüÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "input3".(ü¦€şÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "input2".(£÷…©ûÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "input1".(ˆ©çÒÿÿÿÿÿ
+9
+java:S1659"$Declare "input2" on a separate line.(¼ı÷v
+9
+java:S1659"$Declare "input3" on a separate line.(¼ı÷v
+9
+java:S1659"$Declare "input4" on a separate line.(¼ı÷v
+@
+java:S1481"+Remove this unused "input1" local variable.(¼ı÷v
+@
+java:S1481"+Remove this unused "input2" local variable.(¼ı÷v
+@
+java:S1481"+Remove this unused "input3" local variable.(¼ı÷v
+@
+java:S1481"+Remove this unused "input4" local variable.(¼ı÷v
